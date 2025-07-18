@@ -1,3 +1,3 @@
 UID = "3891049543"
 PASS = "A577C15ED73B1ADCFA988A071E7C045BFAFD17A0AF4701733F0FC601260D621C"
-URL = "https://jwtxthug.up.railway.app/"
+URL = "https://jwtxthug.up.railway.app/token"
